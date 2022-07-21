@@ -173,7 +173,7 @@ GEM
       polyglot (>= 0.3.1)
     turbolinks (2.2.1)
       coffee-rails
-    tzinfo (0.3.55)
+    tzinfo (0.3.61)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
